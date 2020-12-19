@@ -1,0 +1,26 @@
+body{
+    background-image: url("media/fondo.webp");
+
+}
+.centrar{
+    text-align: center;
+}
+
+.alto{
+    height: 600px;
+}
+
+.margen{
+    margin-top: 10px;
+}
+
+.tam{
+    min-height: 500px;
+}
+.borde{
+    border-right: 1px solid black;
+}
+
+.pad{
+    padding: 10px;
+}
